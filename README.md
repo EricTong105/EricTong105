@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/Md5UqmyyS2dhu/giphy.gif">
+### <img src="https://media.giphy.com/media/l0HlIDueXmcWNTPO0/giphy.gif">
 
 <!--
 **EricTong105/EricTong105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
